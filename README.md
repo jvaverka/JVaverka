@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning [Investment Science: Mathematics of Finance](https://www.goodreads.com/book/show/17070421-investment-science)
 - 🤔 I’m looking for help with Neovim
 - 💬 Ask me about my work in HPC, Julia, or applied math
-- 📫 How to reach me: Check out my [website](https://vaverka.gitlab.io/)
+- 📫 How to reach me: 
+  - Check out my [website](https://vaverka.gitlab.io/)
+  - If you're on Gemini, check out [my capsule](https://tilde.team/~javak/)
 - ⚡ Fun fact: I'm an amateur Rubik's Cuber
 
 <!-- 
