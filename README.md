@@ -9,7 +9,7 @@
 - 💬 Ask me about my work in HPC, Julia, or applied math
 - 📫 How to reach me: 
   - Check out my [website](https://vaverka.gitlab.io/)
-  - If you're on Gemini, check out [my capsule](https://tilde.team/~javak/)
+  - If you're on Gemini, check out my [capsule](https://tilde.team/~javak/)
 - ⚡ Fun fact: I'm an amateur Rubik's Cuber
 
 <!-- 
