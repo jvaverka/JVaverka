@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning 
   - [Investment Science: Mathematics of Finance](https://www.goodreads.com/book/show/17070421-investment-science)
   - Modern Web Development and React with [FullStackOpen](https://fullstackopen.com/)
-- 🤔 I’m looking for help Neovim configuration with Lua
+- 🚀 I’m looking to start contributing more to open-source projects
 - 💬 Ask me about my work in HPC, Julia, or applied math
 - 📫 How to reach me: 
   - Check out my [website](https://vaverka.gitlab.io/)
