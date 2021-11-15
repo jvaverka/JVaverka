@@ -9,5 +9,5 @@
   - Genie.jl
 - 💬 Ask me about my work in
   -  Applied math
-  -  HPC
+  -  High Performance Computing
   -  Julia
