@@ -10,4 +10,3 @@
 - 💬 Ask me about my work in
   -  Applied math
   -  High Performance Computing
-  -  Julia
