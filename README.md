@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning
   - ModelingToolkit.jl
 - 🚀 I’m looking to contribute to
-  - Base Julia language
+  - Julia language
   - Julia packages
 - 💬 Ask me about my work in
   -  Applied math
