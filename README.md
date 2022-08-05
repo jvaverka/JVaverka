@@ -26,4 +26,10 @@ I work with Julia, Mathematics, and High Performance Computing.
   </a>
 </p>
 
+<p>
+  <a href="https://itsfoss.com/">
+    <img align="center" src="https://img.shields.io/badge/Linux-Freedom-yellow?style=for-the-badge&logo=Linux&labelColor=3d3846&color=f5c211&logoColor=f5c211" />
+  </a>
+</p>
+
 <!-- https://simpleicons.org/ -->
