@@ -2,11 +2,13 @@
 
 I work with Julia, Mathematics, and High Performance Computing.
 
+<!--
 <p>
   <a href="https://github.com/jvaverka/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvaverka" />
   </a>
 </p>
+-->
 
 <p>
   <a href="https://jvaverka.com/notes/my-julia-story/">
