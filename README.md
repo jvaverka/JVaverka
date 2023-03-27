@@ -1,6 +1,6 @@
-# jvaverka
-
-I work with Julia, Mathematics, and High Performance Computing.
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1980856/screenshots/6236223/dribble.gif" alt="solve"/>
+</p>
 
 <!--
 <p>
@@ -8,7 +8,7 @@ I work with Julia, Mathematics, and High Performance Computing.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvaverka" />
   </a>
 </p>
--->
+
 
 <p>
   <a href="https://jvaverka.com/notes/my-julia-story/">
@@ -33,5 +33,6 @@ I work with Julia, Mathematics, and High Performance Computing.
     <img align="center" src="https://img.shields.io/badge/Linux-Freedom-yellow?style=for-the-badge&logo=Linux&labelColor=3d3846&color=f5c211&logoColor=f5c211" />
   </a>
 </p>
+-->
 
 <!-- https://simpleicons.org/ -->
